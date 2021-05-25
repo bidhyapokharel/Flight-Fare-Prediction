@@ -27,7 +27,7 @@ Checking the feature importance
 **Model Fitting:**
 Fit the trained model using Random Forest.
 (Scatter Image showing the y_pred and y_test)
-![alt text](https://github.com/bidhyapokharel/Flight-Fare-Prediction/blob/master/feature.png?raw=true)
+![alt text](https://github.com/bidhyapokharel/Flight-Fare-Prediction/blob/master/scatter.png?raw=true)
 
 **Hyperparameter Tuning:**
 RandomizedSearchCV is used for hyperparameter tuning.
